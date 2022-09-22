@@ -1,21 +1,13 @@
 {
-  "name": "backend",
+  "name": "back",
   "version": "1.0.0",
-  "description": "groupomania_back",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server"
+    "start": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "dotenv": "^16.0.1",
