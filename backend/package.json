@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Piiquante_back",
+  "description": "groupomania_back",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Solepsia/P6_Piiquante.git"
+    "url": ""
   },
-  "author": "Solepsia",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Solepsia/P6_Piiquante/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Solepsia/P6_Piiquante#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "dotenv": "^16.0.1",
